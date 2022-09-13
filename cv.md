@@ -18,3 +18,17 @@ Today I realize that the growth opportunities and perspectives in my profession 
 ### **Languages**
 * Russian (fluent)
 * English (pre-intermediate)
+
+### **Skills**
+* HTML,CSS
+* JavaScript Basics
+* Git, Github
+* VS Code
+* Corel Draw
+
+### **Courses**
+* HTML Academy New year challenge
+* Подготовительный курс «JavaScript/Front-end. Stage 0»
+
+### **Projects**
+* CV
