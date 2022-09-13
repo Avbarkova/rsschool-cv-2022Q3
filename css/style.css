@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+
+header {
+    display: flex;
+    color: blueviolet;
+}
+
+.photo {
+    width: 40%;
+}
+.name {
+    width: 60%;
+}
+
+img {
+    width: 100%;
+}
